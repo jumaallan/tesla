@@ -13,7 +13,7 @@ We are keeping this repo as a single module since we are building out the UI onl
 
 ### Versions Catalog
 
-To add a dependency, navigate to **gradle/libs.versions.toml*** file, which has all the dependencies for the project. This file has the following sections:
+To add a dependency, navigate to **gradle/libs.versions.toml** file, which has all the dependencies for the project. This file has the following sections:
 
 [versions] is used to declare the version numbers that will be referenced later by plugins and libraries.
 [libraries] Define the libraries that will be later accessed in our Gradle files.
