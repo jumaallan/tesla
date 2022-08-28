@@ -16,8 +16,11 @@ We are keeping this repo as a single module since we are building out the UI onl
 To add a dependency, navigate to **gradle/libs.versions.toml** file, which has all the dependencies for the project. This file has the following sections:
 
 [versions] is used to declare the version numbers that will be referenced later by plugins and libraries.
+
 [libraries] Define the libraries that will be later accessed in our Gradle files.
+
 [bundles] Are used to define a set of dependencies. For this, we have `compose` and `hilt` as examples.
+
 [plugins] Used to define plugins.
 
 You need to add your dependency version in [versions]. This is unnecessary if you are not sharing the version across different dependencies. After defining the version, add your library in the [libraries] section as:
