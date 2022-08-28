@@ -1,0 +1,14 @@
+[versions]
+hilt = "2.42"
+
+[libraries]
+android-hilt = { module = "com.google.dagger:hilt-android", version.ref = "hilt" }
+android-hilt-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "hilt" }
+android-hilt-navigation-compose = "androidx.hilt:hilt-navigation-compose:1.0.0"
+android-hilt-androidx-compiler = "androidx.hilt:hilt-compiler:1.0.0"
+android-hilt-testing = { module = "com.google.dagger:hilt-android-testing", version.ref = "hilt" }
+
+[bundles]
+
+[plugins]
+hilt-plugin = { id = "com.google.dagger.hilt.android", version.ref = "hilt" }
