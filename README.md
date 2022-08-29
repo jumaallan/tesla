@@ -1,4 +1,4 @@
-# Recoin
+# Tesla
 
 Tesla App Clone built in Kotlin, using Compose. The project was initially designed by [Clinton, using Flutter](https://twitter.com/KChienja/status/1563932565442109442), with this [figma design](https://www.figma.com/file/YZpVpudFO7BQfT8fuw8RiJ/Dark-Neumorphism-UI-Tesla-app-(Community)) 
 
