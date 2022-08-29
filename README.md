@@ -1,6 +1,6 @@
 # Tesla
 
-Tesla App Clone built in Kotlin, using Compose. The project was initially designed by [Clinton, using Flutter](https://twitter.com/KChienja/status/1563932565442109442), with this [figma design](<https://www.figma.com/file/YZpVpudFO7BQfT8fuw8RiJ/Dark-Neumorphism-UI-Tesla-app-(Community)>)
+Tesla App Clone built in Kotlin, using Compose. The project was initially designed by [Clinton](https://twitter.com/KChienja/status/1563932565442109442) using Flutter.
 
 We are keeping this repo as a single module since we are building out the UI only. Might modularize if necessary, but not now :smile:
 
@@ -36,7 +36,7 @@ If you have already defined the version in [versions], you define it as:
 android-hilt = { module = "com.google.dagger:hilt-android", version.ref = "hilt" }
 ```
 
-## Designs
+## Design
 
-This is the link to the app designs:  
+This is the link to the app design:  
 [Figma App Design](https://t.co/5tTiNQueMv)
