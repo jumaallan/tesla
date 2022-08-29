@@ -39,4 +39,4 @@ android-hilt = { module = "com.google.dagger:hilt-android", version.ref = "hilt"
 ## Designs
 
 This is the link to the app designs:  
-[Figma App Design] (https://t.co/5tTiNQueMv)
+[Figma App Design](https://t.co/5tTiNQueMv)
